@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: helvetica;
+}
+
+a {
+  color: #fff;
+}
+
+header {
+  padding: 10px;
+  background: #888;
+  color: #fff;
+  text-align: center;
+}
+
+nav {
+  background: #444;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+  font-size: 24px;
+}
+
+section {
+  width: 90%;
+  margin: 0 auto;
+  padding: 5px;
+  min-height: 800px;
+}
+
+footer {
+  padding: 10px;
+  background: lightblue;
+  text-align: center;
+}
